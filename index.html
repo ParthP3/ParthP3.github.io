@@ -199,13 +199,11 @@
         <div class="row">
           <div class="col-md-6">
             <div class="contact_form ">
-              <form action="">
-                <input type="text" placeholder="Name ">
-                <input type="email" placeholder="Email">
-                <input type="text" placeholder="Message" class="message_input">
-                <button>
-                  Send
-                </button>
+              <form action="https://formspree.io/f/xeqwnqlw" method="POST">
+                <input type="text" placeholder="Name" name="name">
+                <input type="email" placeholder="email" name="email">
+                <input type="text" placeholder="Message" class="message_input" name="message">
+                <input type="submit" name="submit" id="submit" value="Submit">
               </form>
             </div>
           </div>
