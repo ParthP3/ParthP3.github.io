@@ -82,12 +82,16 @@ body {
   height: 100vh;
   background-image: url(../images/gallery1.jpeg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .hero_area6 {
   height: 100vh;
   background-image: url(../images/gallery2.jpeg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
@@ -95,18 +99,24 @@ body {
   height: 100vh;
   background-image: url(../images/galler3.jpeg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .hero_area8 {
   height: 100vh;
   background-image: url(../images/gallery4.jpeg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .hero_area9 {
   height: 100vh;
   background-image: url(../images/gallery5.jpeg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .sub_page .hero_area {
