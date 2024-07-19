@@ -84,7 +84,7 @@ body .loading{
 
 .hero_area5 {
   height: 100vh;
-  background-image: url(../images/gallery1.jpeg);
+  background-image: url(../images/gallery8.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -92,7 +92,7 @@ body .loading{
 
 .hero_area6 {
   height: 100vh;
-  background-image: url(../images/gallery2.jpeg);
+  background-image: url(../images/gallery6.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -122,7 +122,20 @@ body .loading{
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
+.hero_area10 {
+  height: 100vh;
+  background-image: url(../images/gallery2.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.hero_area11 {
+  height: 100vh;
+  background-image: url(../images/gallery1.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 .sub_page .hero_area {
   height: auto;
 }
